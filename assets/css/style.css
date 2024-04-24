@@ -52,6 +52,9 @@ ul li:before {
     margin-right: 5px;
     padding-right: 1.5rem;
 }
+.portafolioEstilo{
+    margin-left: 4rem;
+}
 .footer {
     background-color: #100B1F;
     width: 100%;
